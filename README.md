@@ -5,41 +5,31 @@
  - [Description](#description)
  - [Installation](#installation)
  - [Usage](#usage)
- - [Contributing](#contributing)
  - [Testing](#testing)
- - [Questions](#questions)
  - [Contact](#contact)
  - [License](#license)
 
 
 ## Description
 
-Is to build the back end for an e-commerce site by modifying starter code.
+I have built the back-end of an e-commerce store, meant to store data about potential products and inventory. You can use GET, POST, PUT and DELETE requests to update or maintain the database.
 
 ## Installation
 
-Run the mysql commands and use workbench or simalar
+Run "npm install" for dependencies, then log into mySQL and run "source ./db/schema.sql". Make sure to delete the .Example from the end of the .env file and replace the placeholder values with your credentials.
 
 ## Usage
 
-editing the sql files
+Run the command "npm run watch" to start the server. For starter test data, run "npm run seed", then feel free to use your favorite program to send http requests. See the tutorial video here for more =>   
 
-## Contributing
-
-editing responces
 
 ## Testing
 
-run comands in terminal
+Use Insomnia or another request medium, or build a front end.
 
-## Questions
- FAQ:
+-Github: [cromananimation](https://github.com/cromananimation)
 
-apply to emails
-
-Github: [cromananimation](https://github.com/cromananimation)
-
- Email: cromananimation@gmail.com
+-Email: cromananimation@gmail.com
 
 ## Contact
 

@@ -20,7 +20,8 @@ Run "npm install" for dependencies, then log into mySQL and run "source ./db/sch
 
 ## Usage
 
-Run the command "npm run watch" to start the server. For starter test data, run "npm run seed", then feel free to use your favorite program to send http requests. See the tutorial video here for more =>   
+Run the command "npm run watch" to start the server. For starter test data, run "npm run seed", then feel free to use your favorite program to send http requests. See the tutorial video here for more =>  
+[![Tutorial Video](./assets/images/Preview.png)](https://youtu.be/hUEJZPzB4FA "Preview")
 
 
 ## Testing
